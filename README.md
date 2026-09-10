@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm a B.Com (Honours with Research) student, coming from a commerce and research background rather than a computer science one. Along the way, I've spent a lot of time designing surveys, analysing consumer behaviour, and writing research papers — and I realised I enjoy the "figuring out what the numbers mean" part more than anything else.
+I'm a B.Com (Honours with Research) graduate, coming from a commerce and research background rather than a computer science one. Along the way, I've spent a lot of time designing surveys, analysing consumer behaviour, and writing research papers — and I realised I enjoy the "figuring out what the numbers mean" part more than anything else.
 
 That curiosity is what's pulling me toward analytics. I'm now building the technical side — Python, SQL, Power BI — to go with the research and business thinking I already have, with the goal of working as a **Business Analyst**.
 
