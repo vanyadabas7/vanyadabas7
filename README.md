@@ -64,15 +64,6 @@ That curiosity is what's pulling me toward analytics. I'm now building the techn
 - **Approach:** Wrote a research paper examining the relationship between customer review sentiment/volume and sales performance.
 - **Tools used:** Research & analysis.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vanyadabas7&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyadabas7&layout=compact&hide_border=true" alt="Top Languages" width="45%" />
-
-</div>
-
 ## 🎯 Open To
 
 I'm open to **internship and entry-level opportunities** as a **Data Analyst / Business Analyst**, where I can bring together my research background with the analytics skills I'm building.
